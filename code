@@ -1,0 +1,28 @@
+trading-analytics-platform/
+├── public/
+│   ├── index.html
+│   ├── favicon.ico
+│   └── assets/
+├── src/
+│   ├── App.js
+│   ├── index.js
+│   ├── components/
+│   │   ├── Chart.js
+│   │   ├── CurrencySelector.js
+│   │   ├── TechnicalIndicators.js
+│   │   ├── StrategySelector.js
+│   │   ├── PredictionDisplay.js
+│   │   ├── Navbar.js
+│   │   └── Dashboard.js
+│   ├── services/
+│   │   ├── apiService.js
+│   │   ├── analyticService.js
+│   │   └── predictionService.js
+│   ├── utils/
+│   │   ├── indicators.js
+│   │   ├── strategies.js
+│   │   └── helpers.js
+│   └── styles/
+│       ├── App.css
+│       └── components/
+└── package.json
